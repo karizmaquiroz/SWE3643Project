@@ -38,7 +38,7 @@ To configure PlayWrite for end-to-end testing:
 	1.
 	2.
 
-##Executing the Web Application
+## Executing the Web Application
 Describe detailed steps to build and execute web application from command line(terminal/console). 
 
 Last step will describe how to connect to the running web application from a browser on the same machine. This often requires a port. 
