@@ -2,29 +2,30 @@
 
 
 ## Table of Contents
--[Team Members] (#team-members)
 
--[Architecture] (#architecture)
+-[Team Members](#team-members)
 
--[Environment] (#environment)
+-[Architecture](#architecture)
 
--[Executing the Web Application] (#executing-the-web-application)
+-[Environment](#environment)
 
--[Executing Unit Tests] (#executing-unit-tests)
+-[Executing the Web Application](#executing-the-web-application)
 
--[Reviewing Unit Test Coverage] (#reviewing-unit-tests-coverage)
+-[Executing Unit Tests](#executing-unit-tests)
 
--[Executing End-To-End Tests] (#executing-end-to-end-tests)
+-[Reviewing Unit Test Coverage](#reviewing-unit-tests-coverage)
 
--[Final Video Presentation] (#final-video-presentation)
+-[Executing End-To-End Tests](#executing-end-to-end-tests)
 
-#Team members 
+-[Final Video Presentation](#final-video-presentation)
+
+# Team members 
 Karizma Quiroz
 
-#Architecture
+# Architecture
 Briefly describe architecture of project (use diagrams)
 
-#Environment 
+# Environment 
 Explain how to configure the environment to execute your web application, unit tests, and end-to-end tests
 
 This is a application should work on Windows 10+
@@ -37,22 +38,22 @@ To configure PlayWrite for end-to-end testing:
 	1.
 	2.
 
-##Executing the Web Application
+## Executing the Web Application
 Describe detailed steps to build and execute web application from command line(terminal/console). 
 
 Last step will describe how to connect to the running web application from a browser on the same machine. This often requires a port. 
 .....
 
-##Executing Unit tests
+## Executing Unit tests
 Describe detailed steps to build and execute all of your unit tests from command line(terminal/console).
 
 finally, include sample output in code block
 
-##Reviewing Unit Test Coverage
+## Reviewing Unit Test Coverage
 Note the coverage achieved in Calculator Logic module and include screenshot of your graphic from Jestbrains IDE. Calculator Logic must receive 100% test coverage of all statements and paths.
 
-##Executing End-To-End tests
+## Executing End-To-End tests
 Describe the detailed steps to build and execute all your end-to-end unit test from command line.
 
-##Final Video Presentation
+## Final Video Presentation
 Include link to presentation. (YouTube Link)
