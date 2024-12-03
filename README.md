@@ -110,16 +110,21 @@ PlantUML Code
 # Environment 
 This project was completed using JetBrains IDE Rider. 
 To do a similar project:
-	1) Install Git and use .Net8
- 	2) Download Rider to your console. Make sure Rider is operational when starting.
-  	3) For this project create a Calculator Logic and a Calculator Logic Unit Test.
+
+1) Install Git and use .Net8
+ 
+ 2) Download Rider to your console. Make sure Rider is operational when starting.
+  
+  3) For this project create a Calculator Logic and a Calculator Logic Unit Test.
    		- These should be located in the same root repository and file. However, these two projects are to be seperated from each other.
      		- The Calculator Logic will hold the mathimatical operation for the Calculator Logic project, while the Calculator Logic Unit Test project will reference the CalculatorLogic module.
-       4) Once you finished the consoles project push your work to github.com. This helps to save your work if you were to lose the files on your machine.
-       5) Access your command line
+       
+4) Once you finished the consoles project push your work to github.com. This helps to save your work if you were to lose the files on your machine.
+       
+5) Access your command line.
+	On a machine that uses Windows, you open the "Start" menu and type "cmd" and click "Command Prompt". When first doing this make sure Git is installed by entering git --version.
 
-       On a machine that uses Windows, you open the "Start" menu and type "cmd" and click "Command Prompt". When first doing this make sure Git is installed by entering git --version.
-For my project, I used Windows 11.
+Please Note: For my project, I used Windows 11.
 
 To configure PlayWrite for end-to-end testing:
 	1. For Windows consoles download playwrite.
@@ -140,6 +145,8 @@ To execute the unit test from the command line.
 
 Go to the git hub repo and click the green button "<> Code". This is located on the top right of the repository, then click the "Local" tab. Click the subtab "HTTPS" and copy the link to your clipboard.
 
+![githubClone](https://github.com/user-attachments/assets/67b04070-87c3-4954-b793-d5d30c7712a4)
+
 2) Open the command line on your machine
 
 On Windows, go to the "Start" menu and type "cmd" and click "Command Prompt".
@@ -148,11 +155,18 @@ On Windows, go to the "Start" menu and type "cmd" and click "Command Prompt".
 
 From there choose where you wish to place your cloned repository. To choose a specified location use "cd" command, following this by the name of the directory like "Downloads". For myself, I would like to place the repository in my downloads directory. Therefore, I would type "cd Downloads".
 
+![cmd downloads](https://github.com/user-attachments/assets/9168deab-53c8-48bf-a133-a4917c49dfd4)
+
 4) Clone the repository
 Once you choose your chosen directory, use the command "git clone". Followed by the repository link.
 
 Should look like this: "git clone https://github.com/karizmaquiroz/SWE3643Project.git".
 
+![cmd clone](https://github.com/user-attachments/assets/6d50f544-5bdb-47e1-b4b4-488d6e4290cc)
+
+5) Image of repository once cloned
+
+![cmd example](https://github.com/user-attachments/assets/7999fac1-9055-4d5d-ab6b-01e7abc66345)
 
 ## Reviewing Unit Test Coverage
 Note the coverage achieved in the Calculator Logic module and include the screenshot of your graphic from Jestbrains IDE. Calculator Logic must receive 100% test coverage of all statements and paths.
@@ -160,5 +174,9 @@ Note the coverage achieved in the Calculator Logic module and include the screen
 ## Executing End-To-End tests
 Describe the detailed steps to build and execute all your end-to-end unit tests from the command line.
 
+
 ## Final Video Presentation
 Include the link to the presentation. (YouTube Link)
+
+
+
